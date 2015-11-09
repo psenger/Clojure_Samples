@@ -6,7 +6,7 @@
               :object   "relax"}
 
              {:subject  "Lucy"
-              :action   "❤s"
+              :action   "loves"
               :object   "Clojure"}
 
              {:subject  "Rich"
